@@ -6,4 +6,4 @@ A full-stack application for managing quotes. Users can create, view, update, an
 - C# ASP.NET Core
 - Entity Framework Core with In-Memory/SQL Database
 - Swagger for API documentation
-- ASP.NET Identity
+- ASP.NET Core Identity
