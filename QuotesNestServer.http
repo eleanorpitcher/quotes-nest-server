@@ -1,0 +1,6 @@
+@QuotesNestServer_HostAddress = http://localhost:5240
+
+GET {{QuotesNestServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
